@@ -1,0 +1,80 @@
+.info h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  margin-bottom: 0.7rem;
+}
+
+.info-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.info-content h3 {
+  font-size: 1.75rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.tech-sections {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.tech-container {
+  flex: 1;
+  max-width: 45%;
+}
+
+.tech-icons {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.tech-icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.tech-icon img.icon {
+  width: 2.5rem;
+  height: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.state-mgmt-container .tech-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.state-mgmt-container .tech-icon img.icon {
+  margin-right: 0.5rem;
+}
+
+.tech-container .tech-icon span {
+  font-size: 1.25rem;
+}
+
+.features-container,
+.architecture-container,
+.improvements-container {
+  margin-top: 2rem;
+}
+
+.features-container, .improvements-container {
+  padding-left: 7rem;
+  padding-right: 7rem;
+}

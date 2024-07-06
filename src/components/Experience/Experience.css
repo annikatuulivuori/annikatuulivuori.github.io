@@ -1,0 +1,69 @@
+.experience h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.experience-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 10rem;
+}
+
+.experience-content h1 {
+  margin-bottom: 3rem;
+}
+
+.experience-containers {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+
+.kela-container, .landis-container {
+  text-align: center;
+  border: 0.15rem solid rgb(53, 53, 53);
+  border-radius: 2rem;
+  flex: 1 1 auto;
+  padding: 1.5rem;
+}
+
+.job-company {
+  margin-bottom: 0.1rem;
+  margin-top: 0rem;
+}
+
+.job-title {
+  margin-bottom: 0rem;
+  margin-top: 0.1rem;
+}
+
+.job-date {
+  font-style: italic;
+  margin-bottom: 0rem;
+  margin-top: 0.1rem;
+}
+
+.job-area {
+  font-size: 1rem;
+}
+
+.job-tech-stack {
+  font-size: 0.75rem;
+}
+
+.kela-icon, .landis-icon {
+  height: 3.5rem;
+}
+
+.kela-icon {
+  padding-left: 1.2rem;
+}
+
+.landis-icon {
+  padding-left: 0.75rem;
+  padding-top: 0.3rem;
+}
+
