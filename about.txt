@@ -1,0 +1,7 @@
+I have a Bachelor's degree in Computer Science from the University of Jyväskylä and am a software developer with a robust foundation in software development. My goal is to become an experienced Full Stack Developer. My expertise comes from my academic background, hands-on personal projects, and practical work experience.
+
+I have a year of professional experience in software development, both the public and private sectors. My experience has been within agile development teams of 7-10 members, where collaboration and iterative progress are key.
+
+My main programming languages are Java (with Spring Boot), JavaScript, and TypeScript. My practical skills include test automation development with Robot Framework, using Docker, and working with CI/CD pipelines.
+
+Currently, I am expanding my skill set by learning about DevOps with Kubernetes and cloud technologies, aiming to integrate these capabilities into my full stack development tech-stack.

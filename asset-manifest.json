@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e5cf32aa.css",
+    "main.js": "/static/js/main.f9edbfed.js",
+    "static/media/PAU_1477.jpg": "/static/media/PAU_1477.bf873c26fc211a99fdfe.jpg",
+    "static/media/react.png": "/static/media/react.93c7e681d35839529f74.png",
+    "static/media/redux.png": "/static/media/redux.fda3d3c36e785a8dbc92.png",
+    "static/media/typescript.png": "/static/media/typescript.fc289e9f74363b8ceb36.png",
+    "static/media/css.png": "/static/media/css.2d04db8d3245e991c752.png",
+    "static/media/linkedin.png": "/static/media/linkedin.032cf8a63be2f0f4d425.png",
+    "index.html": "/index.html",
+    "main.e5cf32aa.css.map": "/static/css/main.e5cf32aa.css.map",
+    "main.f9edbfed.js.map": "/static/js/main.f9edbfed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5cf32aa.css",
+    "static/js/main.f9edbfed.js"
+  ]
+}
