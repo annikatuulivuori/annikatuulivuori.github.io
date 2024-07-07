@@ -1,7 +1,8 @@
 {
-  "name": "curriculum-vitae",
+  "name": "annikatuulivuori.github.io",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://annikatuulivuori.github.io",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.5",
     "@testing-library/jest-dom": "^5.17.0",
@@ -24,7 +25,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx,css,scss,json,md}\"",
-    "format:check": "prettier --check \"src/**/*.{js,jsx,ts,tsx,css,scss,json,md}\""
+    "format:check": "prettier --check \"src/**/*.{js,jsx,ts,tsx,css,scss,json,md}\"",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build --repo https://github.com/annikatuulivuori/annikatuulivuori.github.io.git"
   },
   "eslintConfig": {
     "extends": [
@@ -46,6 +49,7 @@
   },
   "devDependencies": {
     "@types/react-scroll": "^1.8.10",
+    "gh-pages": "^6.1.1",
     "prettier": "^3.3.2"
   }
 }

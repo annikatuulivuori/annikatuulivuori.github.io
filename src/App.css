@@ -15,16 +15,3 @@
   flex-direction: column;
   text-align: center;
 }
-
-/* .about, .home, .experience, .info, .contact {
-  border: 5px solid red;
-}
-
-.about-content, .home-content {
-  border: 1px solid blue;
-  width: 100%;
-}
-
-.about-containers {
-  border: 1px solid green; 
-}/*
