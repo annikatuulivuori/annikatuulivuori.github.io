@@ -12,7 +12,10 @@ const Header: React.FC = () => {
 
   return (
     <header className="header">
-      <h1 className="name">Annika Tuulivuori</h1>
+      <div className="header-content">
+        <h1 className="name">Annika Tuulivuori</h1>
+        <p className="does-not-work">this app does not display correctly on smaller screens!</p>
+      </div>
       <nav className="navigation">
         <ul>
           <li>
